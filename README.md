@@ -1,4 +1,4 @@
-# my-artifactId Project
+# Skeleton Quarkus basic
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
